@@ -1,0 +1,2 @@
+# bicep
+Bicep templates
